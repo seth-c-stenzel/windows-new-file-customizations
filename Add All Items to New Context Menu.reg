@@ -1,0 +1,57 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\css_usurper]
+"FriendlyTypeName"="CSS FILE"
+[HKEY_CLASSES_ROOT\.css\ShellNew]
+"FileName"="css.css"
+[HKEY_CLASSES_ROOT\.css]
+@="css_usurper"
+
+[HKEY_CLASSES_ROOT\bat_usurper]
+"FriendlyTypeName"="BATCH SCRIPT"
+[HKEY_CLASSES_ROOT\.bat\ShellNew]
+"FileName"="bat.bat"
+[HKEY_CLASSES_ROOT\.bat]
+@="bat_usurper"
+
+[HKEY_CLASSES_ROOT\html_usurper]
+"FriendlyTypeName"="HTML FILE"
+[HKEY_CLASSES_ROOT\.html\ShellNew]
+"FileName"="html.html"
+[HKEY_CLASSES_ROOT\.html]
+@="html_usurper"
+
+[HKEY_CLASSES_ROOT\ipynb_usurper]
+"FriendlyTypeName"="JUPYTER NOTEBOOK"
+[HKEY_CLASSES_ROOT\.ipynb\ShellNew]
+"FileName"="ipynb.ipynb"
+[HKEY_CLASSES_ROOT\.ipynb]
+@="ipynb_usurper"
+
+[HKEY_CLASSES_ROOT\js_usurper]
+"FriendlyTypeName"="JS SCRIPT"
+[HKEY_CLASSES_ROOT\.js\ShellNew]
+"FileName"="js.js"
+[HKEY_CLASSES_ROOT\.js]
+@="js_usurper"
+
+[HKEY_CLASSES_ROOT\php_usurper]
+"FriendlyTypeName"="PHP SCRIPT"
+[HKEY_CLASSES_ROOT\.php\ShellNew]
+"FileName"="php.php"
+[HKEY_CLASSES_ROOT\.php]
+@="php_usurper"
+
+[HKEY_CLASSES_ROOT\psd_usurper]
+"FriendlyTypeName"="PS IMAGE"
+[HKEY_CLASSES_ROOT\.psd\ShellNew]
+"FileName"="psd.psd"
+[HKEY_CLASSES_ROOT\.psd]
+@="psd_usurper"
+
+[HKEY_CLASSES_ROOT\py_usurper]
+"FriendlyTypeName"="PYTHON SCRIPT"
+[HKEY_CLASSES_ROOT\.py\ShellNew]
+"FileName"="py.py"
+[HKEY_CLASSES_ROOT\.py]
+@="py_usurper"

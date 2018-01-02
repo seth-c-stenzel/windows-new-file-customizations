@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\js_usurper]
+"FriendlyTypeName"="JS SCRIPT"
+[HKEY_CLASSES_ROOT\.js\ShellNew]
+"FileName"="js.js"
+[HKEY_CLASSES_ROOT\.js]
+@="js_usurper"

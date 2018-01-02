@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\css_usurper]
+"FriendlyTypeName"="CSS FILE"
+[HKEY_CLASSES_ROOT\.css\ShellNew]
+"FileName"="css.css"
+[HKEY_CLASSES_ROOT\.css]
+@="css_usurper"

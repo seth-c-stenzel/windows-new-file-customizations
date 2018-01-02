@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\ipynb_usurper]
+"FriendlyTypeName"="JUPYTER NOTEBOOK"
+[HKEY_CLASSES_ROOT\.ipynb\ShellNew]
+"FileName"="ipynb.ipynb"
+[HKEY_CLASSES_ROOT\.ipynb]
+@="ipynb_usurper"

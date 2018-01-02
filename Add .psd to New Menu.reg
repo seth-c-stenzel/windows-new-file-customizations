@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\psd_usurper]
+"FriendlyTypeName"="PS IMAGE"
+[HKEY_CLASSES_ROOT\.psd\ShellNew]
+"FileName"="psd.psd"
+[HKEY_CLASSES_ROOT\.psd]
+@="psd_usurper"

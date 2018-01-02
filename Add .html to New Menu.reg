@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\html_usurper]
+"FriendlyTypeName"="HTML FILE"
+[HKEY_CLASSES_ROOT\.html\ShellNew]
+"FileName"="html.html"
+[HKEY_CLASSES_ROOT\.html]
+@="html_usurper"
